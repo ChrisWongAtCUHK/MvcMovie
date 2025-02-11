@@ -1,1 +1,1 @@
-web: cd bin/Release/net9.0/publish; ./MvcMovie --urls http://0.0.0.0:$PORT
+web: cd bin/publish; ./MvcMovie --urls http://0.0.0.0:$PORT
